@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+.top {
+    margin-top: 15rem;
+}
+
+.numberInput {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.guessingBtn {
+    margin-bottom: 30px;
+    margin-right: 5px;
+
+}
+
+.resetBtn {
+    margin-bottom: 30px;
+    margin-left: 5px
+}
